@@ -49,7 +49,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/vvladislovv/vvladislovv/assets/133252067/4c542dd0-0b53-407e-a6c4-aaa94c26c79f" title="Json" alt="Json" width="40" height="40"/>&nbsp
+  <img src="https://github.com/vvladislovv/vvladislovv/assets/133252067/a78322bc-8d79-4439-a385-6216c509daf8" title="Json" alt="Json" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL" alt="Sql" width="40" height="40"/>&nbsp
+
 
  <!--  <img src="" title="css" alt="css" width="40" height="40"/>&nbsp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
