@@ -11,7 +11,7 @@
 </picture>
 
 
-- :telescope: Участвовал в разработке игры в Roblox.
+- :telescope: Участвовал в разработке игр в Roblox.
 
 - :seedling: Завершил курсы по програмирование на Python и Lua от TeachBase.
 
