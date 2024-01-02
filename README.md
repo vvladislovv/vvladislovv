@@ -6,9 +6,11 @@
 
 Я начинающий программист-кодер<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20px">. Мой путь в IT начался с учебы в Школе 23, где в 9 классе я написал программу на Pascal и увлекся логикой работы кода. После окончания школы, я пробовал себя в разных областях, но потом вернулся к программированию и решил попробовать написать свою игру в Roblox Studio<img src="https://github.com/vvladislovv/vvladislovv/assets/133252067/78c5b7b3-58bd-4ed6-bd49-fe687c4b4da4" width="20px">. Позже я пошел в колледж, где прошел курс по разработке от Teachbase. С февраля 2024 года я ищу заказы и работу!
 
-<p align="center">
- <img width="600" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 - :telescope: Участвовал в разработке игры в Roblox.
