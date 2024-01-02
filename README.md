@@ -7,8 +7,7 @@
 Я начинающий программист-кодер<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20px">. Мой путь в IT начался с учебы в Школе 23, где в 9 классе я написал программу на Pascal и увлекся логикой работы кода. После окончания школы, я пробовал себя в разных областях, но потом вернулся к программированию и решил попробовать написать свою игру в Roblox Studio<img src="https://github.com/vvladislovv/vvladislovv/assets/133252067/78c5b7b3-58bd-4ed6-bd49-fe687c4b4da4" width="20px">. Позже я пошел в колледж, где прошел курс по разработке от Teachbase. С февраля 2024 года я ищу заказы и работу!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" />
 </picture>
 
 
@@ -49,6 +48,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
  <!--  <img src="" title="css" alt="css" width="40" height="40"/>&nbsp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
