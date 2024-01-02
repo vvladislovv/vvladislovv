@@ -43,12 +43,14 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" title="lua" alt="lua" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://icons8.com/icon/6or30FVdPylJ/json-(javascript-object-notation)-is-a-lightweight-data-interchange-forma" title="Json" alt="Json" width="40" height="40"/>&nbsp
+
  <!--  <img src="" title="css" alt="css" width="40" height="40"/>&nbsp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
@@ -58,11 +60,9 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premier Pro" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/108794/youtube-squared" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio code" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vvladislovv/vvladislovv/assets/133252067/78c5b7b3-58bd-4ed6-bd49-fe687c4b4da4" title="Roblox Studio" alt="" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="" width="40" height="40"/>&nbsp;
   <!--<img src="" title="YouTube" alt="" width="40" height="40"/>&nbsp; -->
 </div>
 
@@ -73,7 +73,6 @@
 | Курсы                                                                 | Дата:             |
 | ----------------------------------------------------------------------| :---------------: |
 | teachbase.ru/Программирование на Python и Lua                         | 11/2023 - XX/2024 |
-| ----------------------------------------------------------------------| :---------------: |
 
 
 
