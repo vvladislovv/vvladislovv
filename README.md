@@ -33,8 +33,8 @@
     <a href="https://vk.com/codilo" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png"  height="40" alt="VK Group"/>
     </a>
-    <a href="https://vk.com/codilo" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" height="40" alt="VK Group"/>
+    <a href="https://www.youtube.com/channel/UC1BCbNVvbkbucM5XlnwM2gA" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
   </div>
 
