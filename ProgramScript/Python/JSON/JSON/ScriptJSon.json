@@ -1,0 +1,10 @@
+{
+  "Name": "Evaka",
+  "Phone": "8-923-934-55-67",
+  "Programer": {"Lua" : "Lua","luau":"luau","Python":"Python"},
+  "Mediacontent": {
+      "Vk" : "",
+      "YouTube" : "",
+      "Roblox Studio" : null
+  }
+}
