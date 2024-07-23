@@ -1,3 +1,0 @@
-local NotificalSystems = {}
-
-return NotificalSystems

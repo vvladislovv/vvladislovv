@@ -1,2 +1,0 @@
-local MobsSytems = {}
-return MobsSytems

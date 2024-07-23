@@ -1,1 +1,0 @@
-local Flower = require(game.ReplicatedStorage.Modules:WaitForChild("FlowerCollect"))
