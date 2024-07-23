@@ -6,6 +6,10 @@
 
 Я начинающий программист-кодер<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20px">. Мой путь в IT начался с учебы в Школе 23году, где в 9 классе я написал программу на Pascal и увлекся логикой работы кода. После окончания школы, я пробовал себя в разных областях, но потом вернулся к программированию и решил попробовать написать свою игру в Roblox Studio<img src="https://github.com/vvladislovv/vvladislovv/assets/133252067/78c5b7b3-58bd-4ed6-bd49-fe687c4b4da4" width="20px">. Позже я пошел в колледж, где прошел курс по разработке от Teachbase. С февраля 2024 года, я ищу заказы и работу!
 
+ <picture>
+  <img alt="github-snake" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fsoftware-developer-multiscreen-workstation_155957352.htm&psig=AOvVaw2w_VoN151N1GDS4UAV86Ct&ust=1721843794845000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjz3ZHevYcDFQAAAAAdAAAAABAV" />
+</picture>
+
 <picture>
   <img alt="github-snake" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" />
 </picture>
@@ -24,19 +28,10 @@
 
 ---
 
-### 🤝 Social network:
-
-  <div id="badges">
-    <a href="https://t.me/CrazyLifeEva" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram Channel" />
-    </a>
-    <a href="https://vk.com/codilo" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png"  height="40" alt="VK Group"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UC1BCbNVvbkbucM5XlnwM2gA" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
-  </div>
+## About me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![Discrod](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://discord.gg/waGBWpBSMm)
 
 ---
 
