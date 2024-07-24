@@ -65,12 +65,10 @@ class Vladislov extends Person {
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="" width="40" height="40"/>&nbsp;
   <!--<img src="" title="YouTube" alt="" width="40" height="40"/>&nbsp; -->
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvladislovv&theme=2077)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvladislovv&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvladislovv&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvladislovv&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvladislovv&theme=2077)
 
 
- 
+
+
