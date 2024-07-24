@@ -15,7 +15,7 @@
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)-->
 
 [![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vvlad_islovv) 
-[![Discrod Badge](https://img.shields.io/badge/-vvlad_islovv-darkslateblue?style=flat&logo=Discord&logoColor=#4B0082)](ttps://discordapp.com/users/1144549294813224960/)
+[![Discrod Badge](https://img.shields.io/badge/-vvlad_islovv-darkslateblue?style=flat&logo=Discord&logoColor=#4B0082)](https://discordapp.com/users/1144549294813224960/)
 [![Discrod Badge](https://img.shields.io/badge/-vvlad_islovv-dodgerblue?style=flat&logo=VK&logoColor=#4B0082)](https://vk.com/vvlad_islovv)
   
 <h1>How I'd define myself...literally</h1>
