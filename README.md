@@ -1,73 +1,75 @@
-# Hi, my name is Vladislav!
 
----
-
-### 👨‍💻 Обо мне:
-
-Я начинающий программист-кодер<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20px">. Мой путь в IT начался с учебы в Школе 23году, где в 9 классе я написал программу на Pascal и увлекся логикой работы кода. После окончания школы, я пробовал себя в разных областях, но потом вернулся к программированию и решил попробовать написать свою игру в Roblox Studio<img src="https://github.com/vvladislovv/vvladislovv/assets/133252067/78c5b7b3-58bd-4ed6-bd49-fe687c4b4da4" width="20px">. Позже я пошел в колледж, где прошел курс по разработке от Teachbase. С февраля 2024 года, я ищу заказы и работу!
-
- <picture>
-  <img alt="github-snake" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fsoftware-developer-multiscreen-workstation_155957352.htm&psig=AOvVaw2w_VoN151N1GDS4UAV86Ct&ust=1721843794845000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjz3ZHevYcDFQAAAAAdAAAAABAV" />
-</picture>
-
-<picture>
-  <img alt="github-snake" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" />
-</picture>
+<h1> Hi, my name is Vladislav!✌️</h1>
+<!--
+<img  style="margin-top: 10px" src="https://cs13.pikabu.ru/post_img/2024/06/23/10/1719161244164571834.jpg" width="100%" height: auto>
+-->
 
 
-- :telescope: Участвовал в разработке игр в Roblox.
+<h2>
+    🎓I'm a coding programmer who learns new skills every day. I wrote my first code at the age of 16<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="25px">, and since then, everything has evolved. I enjoy taking on new and interesting challenges and often approach them with unconventional solutions. I've taken courses in programming, but I prefer self-learning<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RxanpkMmowdWw3OXpzcWl1ZzhjbzB0M2huaDc4aDBzc2lxcXJ6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="25x">.
+</h2>
 
-- :seedling: Завершил курсы по програмирование на Python и Lua от TeachBase.
+<h4>
+ 💭I'm ready to take on an interesting project. If you are interested in my GitHub and my projects, please contact me. 
+</h4>
+<!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)-->
 
-- :zap: Являюсь developer игр в роблоксе, от групп EVINK COMMUNITY.
+[![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vvlad_islovv) 
+[![Discrod Badge](https://img.shields.io/badge/-vvlad_islovv-darkslateblue?style=flat&logo=Discord&logoColor=#4B0082)](ttps://discordapp.com/users/1144549294813224960/)
+[![Discrod Badge](https://img.shields.io/badge/-vvlad_islovv-dodgerblue?style=flat&logo=VK&logoColor=#4B0082)](https://vk.com/vvlad_islovv)
+  
+<h1>How I'd define myself...literally</h1>
 
+```TypeScript
+class Person {
+ // Class
+}
 
----
+class Vladislov extends Person {
+  private name: string;
+  private vacancy: string;
+  private age: number;
+  private workPrograms: string[];
+  private languagesWork: string[];
+  private hobbies: string[];
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vvlad_islovv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)
+  constructor() {
+    this.name = 'Vladislav';
+    this.age = 16;
+    this.Vacancy = ['Backend Developer']
+    this.workPrograms = ['Roblox Studio', 'Visual Studio Code', 'Visual Studio', 'IntelliJ IDEA', 'Unity'];
+    this.languagesWork = ['Luau', 'Python', 'C#'];
+    this.hobbies = ['Blogging', 'Coding'];
+  }
 
----
+  public currentLocation(): string {
+    return 'Moscow, Russia';
+  }
 
-## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
-[![Discrod](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://discord.gg/waGBWpBSMm)
+  public currently(): { studying: string[]; myqualities: string[] } {
+    return {
+      studying: ['TypeScript', 'C#','Java','Unity'],
+      myqualities: ['Hard work', 'Deadline fulfillment', 'Interest in new technologies']
+    };
+  }
+}
+```
 
----
-
-### 💻 Technology:
-
+<h2>What I always play with
 <div>
-  <img src="https://github.com/vvladislovv/vvladislovv/blob/main/ProgramScript/Lua-Luau/lua-plain.svg" title="lua" alt="lua" width="40" height="40"/>&nbsp
-  <img src="https://github.com/vvladislovv/vvladislovv/blob/main/ProgramScript/Python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-
-
-
- <!--  <img src="" title="css" alt="css" width="40" height="40"/>&nbsp
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
-</div>
-
----
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio code" alt="" width="40" height="40"/>&nbsp;
+</p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="Visual Studio" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vvladislovv/vvladislovv/assets/133252067/78c5b7b3-58bd-4ed6-bd49-fe687c4b4da4" title="Roblox Studio" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg" title="Unity" alt="" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="" width="40" height="40"/>&nbsp;
   <!--<img src="" title="YouTube" alt="" width="40" height="40"/>&nbsp; -->
 </div>
 
----
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvladislovv&theme=2077)
 
-### ✨ Completed courses:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvladislovv&theme=2077)
 
-| Курсы                                                                 | Дата:             |
-| ----------------------------------------------------------------------| :---------------: |
-| teachbase.ru/Программирование на Python и Lua                         | 11/2023 - 05/2024 |
-
-
-
-### 💻 Лучшие проекты:
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvladislovv&theme=2077)
 
 
