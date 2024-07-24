@@ -67,8 +67,11 @@ class Vladislov extends Person {
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvladislovv&show_icons=true&theme=solarized-dark)
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvladislovv&hide_progress=truetheme=solarized-dar) 
  
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/vvladislovv/TWWRR)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/vvladislovv/TWWRR)-->
+
+
+
 
