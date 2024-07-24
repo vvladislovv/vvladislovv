@@ -29,6 +29,7 @@ class Vladislov extends Person {
   private name: string;
   private vacancy: string;
   private age: number;
+  privete vacancy : string[];
   private workPrograms: string[];
   private languagesWork: string[];
   private hobbies: string[];
@@ -36,7 +37,7 @@ class Vladislov extends Person {
   constructor() {
     this.name = 'Vladislav';
     this.age = 16;
-    this.Vacancy = ['Backend Developer']
+    this.vacancy = ['Backend Developer']
     this.workPrograms = ['Roblox Studio', 'Visual Studio Code', 'Visual Studio', 'IntelliJ IDEA', 'Unity'];
     this.languagesWork = ['Luau', 'Python', 'C#'];
     this.hobbies = ['Blogging', 'Coding'];
