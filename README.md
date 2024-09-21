@@ -6,7 +6,7 @@
 
 
 <h2>
-    🎓I'm a coding programmer who learns new skills every day. I wrote my first code at the age of 16<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="25px">, and since then, everything has evolved. I enjoy taking on new and interesting challenges and often approach them with unconventional solutions. I've taken courses in programming, but I prefer self-learning<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RxanpkMmowdWw3OXpzcWl1ZzhjbzB0M2huaDc4aDBzc2lxcXJ6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="25px">.
+    🎓I'm a coding programmer who learns new skills every day. I wrote my first code at the age of 18<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="25px">, and since then, everything has evolved. I enjoy taking on new and interesting challenges and often approach them with unconventional solutions. I've taken courses in programming, but I prefer self-learning<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RxanpkMmowdWw3OXpzcWl1ZzhjbzB0M2huaDc4aDBzc2lxcXJ6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="25px">.
 </h2>
 
 <h4>
