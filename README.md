@@ -36,10 +36,10 @@ class Vladislov extends Person {
 
   constructor() {
     this.name = 'Vladislav';
-    this.age = 16;
+    this.age = 18;
     this.vacancy = ['Backend Developer']
-    this.workPrograms = ['Roblox Studio', 'Visual Studio Code', 'Visual Studio', 'IntelliJ IDEA', 'Unity'];
-    this.languagesWork = ['Luau', 'Python', 'C#'];
+    this.workPrograms = ['Roblox Studio', 'Visual Studio Code', 'Visual Studio',];
+    this.languagesWork = ['Luau', 'Python', 'C++'];
     this.hobbies = ['Blogging', 'Coding'];
   }
 
@@ -49,7 +49,7 @@ class Vladislov extends Person {
 
   public currently(): { studying: string[]; myqualities: string[] } {
     return {
-      studying: ['TypeScript', 'C#','Java','Unity'],
+      studying: ['Python', 'C++',],
       myqualities: ['Hard work', 'Deadline fulfillment', 'Interest in new technologies']
     };
   }
