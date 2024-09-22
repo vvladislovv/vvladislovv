@@ -37,10 +37,10 @@ private:
 public:
     Vladislov() {
         name = "Vladislav";
-        age = 16;
+        age = 18;
         vacancy.push_back("Backend Developer");
-        workPrograms = {"Roblox Studio", "Visual Studio Code", "Visual Studio", "IntelliJ IDEA", "Unity"};
-        languagesWork = {"Luau", "Python", "C#"};
+        workPrograms = {"Roblox Studio", "Visual Studio Code", "Visual Studio""};
+        languagesWork = {"Luau", "Python", "C++"};
         hobbies = {"Blogging", "Coding"};
     }
 
@@ -55,7 +55,7 @@ public:
 
     Currently currently() {
         return {
-            {"TypeScript", "C#", "Java", "Unity"},
+            {"Python", "C++"},
             {"Hard work", "Deadline fulfillment", "Interest in new technologies"}
         };
     }
