@@ -21,39 +21,66 @@
 <h1>How I'd define myself...literally</h1>
 
 ```TypeScript
-class Person {
- // Class
-}
+#include <iostream>
+#include <string>
+#include <vector>
 
-class Vladislov extends Person {
-  private name: string;
-  private vacancy: string;
-  private age: number;
-  privete vacancy : string[];
-  private workPrograms: string[];
-  private languagesWork: string[];
-  private hobbies: string[];
+class Vladislov : public Person {
+private:
+    std::string name;
+    std::vector<std::string> vacancy;
+    int age;
+    std::vector<std::string> workPrograms;
+    std::vector<std::string> languagesWork;
+    std::vector<std::string> hobbies;
 
-  constructor() {
-    this.name = 'Vladislav';
-    this.age = 18;
-    this.vacancy = ['Backend Developer']
-    this.workPrograms = ['Roblox Studio', 'Visual Studio Code', 'Visual Studio',];
-    this.languagesWork = ['Luau', 'Python', 'C++'];
-    this.hobbies = ['Blogging', 'Coding'];
-  }
+public:
+    Vladislov() {
+        name = "Vladislav";
+        age = 16;
+        vacancy.push_back("Backend Developer");
+        workPrograms = {"Roblox Studio", "Visual Studio Code", "Visual Studio", "IntelliJ IDEA", "Unity"};
+        languagesWork = {"Luau", "Python", "C#"};
+        hobbies = {"Blogging", "Coding"};
+    }
 
-  public currentLocation(): string {
-    return 'Moscow, Russia';
-  }
+    std::string currentLocation() {
+        return "Moscow, Russia";
+    }
 
-  public currently(): { studying: string[]; myqualities: string[] } {
-    return {
-      studying: ['Python', 'C++',],
-      myqualities: ['Hard work', 'Deadline fulfillment', 'Interest in new technologies']
+    struct Currently {
+        std::vector<std::string> studying;
+        std::vector<std::string> myqualities;
     };
-  }
+
+    Currently currently() {
+        return {
+            {"TypeScript", "C#", "Java", "Unity"},
+            {"Hard work", "Deadline fulfillment", "Interest in new technologies"}
+        };
+    }
+};
+
+int main() {
+    Vladislov vlad;
+    
+    std::cout << "Name: " << vlad.currentLocation() << std::endl;
+
+    Vladislov::Currently info = vlad.currently();
+    
+    std::cout << "Studying: ";
+    for (const auto& subject : info.studying) {
+        std::cout << subject << " ";
+    }
+    
+    std::cout << "\nQualities: ";
+    for (const auto& quality : info.myqualities) {
+        std::cout << quality << " ";
+    }
+
+    return 0;
 }
+
 ```
 
 <h2>What I always play with
