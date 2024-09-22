@@ -20,7 +20,7 @@
   
 <h1>How I'd define myself...literally</h1>
 
-```TypeScript
+```C++
 #include <iostream>
 #include <string>
 #include <vector>
