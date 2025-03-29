@@ -14,7 +14,80 @@
 </h4>
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)-->
 
-<!--START_SECTION:waka-->  
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2018%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 107 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+🌆 Daytime                391 commits         ████████████░░░░░░░░░░░░░   48.15 % 
+🌃 Evening                272 commits         ████████░░░░░░░░░░░░░░░░░   33.50 % 
+🌙 Night                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Tuesday                  256 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Thursday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Saturday                 159 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   40 repos            ████████████░░░░░░░░░░░░░   46.51 % 
+Lua                      18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/vvladislovv/vvladislovv/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/03/2025 14:11:44 UTC
 <!--END_SECTION:waka-->
 
 
