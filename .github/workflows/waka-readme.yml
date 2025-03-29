@@ -18,9 +18,12 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: vvladislovv # Ваш никнейм GitHub
-          SHOW_COMMIT="FALSE"
-          SHOW_DAYS_OF_WEEK="FALSE"
-          SHOW_OS="FALSE"
-          SHOW_TIMEZONE="FALSE"
-          SHOW_TIME="FALSE"
-          SHOW_EDITORS="FALSE"
+          SHOW_COMMIT: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_OS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_TIME: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE: "False" # Скрыть языки программирования
