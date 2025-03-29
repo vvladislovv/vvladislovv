@@ -39,6 +39,7 @@ class AboutMe:
 ```
 
 <h2>👨🏼‍💻 My job statistics: </h2>
+
 [![GitHub Stats](https://raw.githubusercontent.com/vvladislovv/StateUse/master/github_stats.svg)](https://github.com/vvladislovv/StateUse)
 
  <h2>💭 Would you like to contact me here are my contacts: </h2>
