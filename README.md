@@ -15,15 +15,11 @@
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2021%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2025
+> 🏆 109 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,42 +27,10 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-🌆 Daytime                392 commits         ████████████░░░░░░░░░░░░░   48.22 % 
-🌃 Evening                272 commits         ████████░░░░░░░░░░░░░░░░░   33.46 % 
-🌙 Night                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Tuesday                  256 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Thursday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Saturday                 160 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -87,7 +51,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vvladislovv/vvladislovv/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 14:24:35 UTC
+ Last Updated on 29/03/2025 14:32:15 UTC
 <!--END_SECTION:waka-->
 
 
