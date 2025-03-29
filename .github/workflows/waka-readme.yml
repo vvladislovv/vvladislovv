@@ -26,3 +26,4 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_TIME: "False"
           SHOW_EDITORS: "False"
+          HIDE_TIMELINE: "True"
