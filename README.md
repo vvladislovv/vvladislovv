@@ -5,7 +5,7 @@
 
 <h1> Hi, my name is Elcheninov Vladislav!✌️</h1>
 <h2>👀 A little bit about me:</h2>
-<h4>I study and live in Moscow. I came to the IT field because of `my interest in studying computers`, as well as my curiosity about how various information systems work. I play the guitar and `I like to learn something new`, as well as create something with my own hands. I've `created games` in the past, and now I'm diving into writing` web applications and developing websites.`</h4>
+<h4>I study and live in Moscow. I came to the IT field because of my interest in studying computers, as well as my curiosity about how various information systems work. I play the guitar and I like to learn something new, as well as create something with my own hands. I've created games in the past, and now I'm diving into writing web applications and developing websites.</h4>
 
 <h1> 🐍 if me describe me in Python language:</h1>
 
