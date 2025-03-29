@@ -1,0 +1,18 @@
+Имя: Codetime Stats
+на:
+  расписание:
+    - крон: "0 0 * * *" # Обновление каждый день в полночь UTC
+  workflow_dispatch:
+Вакансии:
+  Обновление-чтение:
+    забегает: Ubuntu-Latest
+    шаги:
+      - Использование: Действия/Оформление@v3
+      - Имя: Получите статистику Codetime
+        Бегать: |
+          PIP установить запросы
+          Python Generate_codetime_stats.py
+      - Имя: Зафиксировать изменения
+        Использование: Stefanzweifel/Git-Auto-Commit-Action@V..4
+        С:
+          Commit_message: "Обновление статистики Codetime"
