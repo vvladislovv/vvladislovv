@@ -1,145 +1,75 @@
 
-<h1> Hi, my name is Vladislav!✌️</h1>
-
-<img  style="margin-top: 10px" src="https://cs13.pikabu.ru/post_img/2024/06/23/10/1719161244164571834.jpg" width="100%" height: auto>
 
 
+<img  style="margin-top: 10px" src="./wallpaper.gif" width="100%" height: auto>
 
-<h2>
-    🎓I'm a coding programmer who learns new skills every day. I wrote my first code at the age of 18<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="25px">, and since then, everything has evolved. I enjoy taking on new and interesting challenges and often approach them with unconventional solutions. I've taken courses in programming, but I prefer self-learning<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RxanpkMmowdWw3OXpzcWl1ZzhjbzB0M2huaDc4aDBzc2lxcXJ6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="25px">.
-</h2>
+<h1> Hi, my name is Elcheninov Vladislav!✌️</h1>
+<h2>👀 A little bit about me:</h2>
+<h4>I study and live in Moscow. I came to the IT field because of `my interest in studying computers`, as well as my curiosity about how various information systems work. I play the guitar and `I like to learn something new`, as well as create something with my own hands. I've `created games` in the past, and now I'm diving into writing` web applications and developing websites.`</h4>
 
-<h4>
- 💭I'm ready to take on an interesting project. If you are interested in my GitHub and my projects, please contact me. 
+<h1> 🐍 if me describe me in Python language:</h1>
+
+```Python
+from dataclasses import dataclass, field
+from typing import List
+
+@dataclass
+class Currently:
+    studying: List[str] = field(default_factory=list)
+    myqualities: List[str] = field(default_factory=list)
+
+class AboutMe:
+    def __init__(self):
+        self.name = "Vladislav"
+        self.age = 18
+        self.vacancy = ["Fullstack developer"]
+        self.work_programs = ["Cursor", "Docker", "Figma", "MongoDB Compass", "Insomnia",]
+        self.languages_work = ["Python", "TS"]
+        self.hobbies = ["Blogging", "Coding"]
+
+    def current_location(self) -> str:
+        return "Moscow, Russia"
+
+    def currently(self) -> Currently:
+        return Currently(
+            studying=["TS", "GO"],
+            myqualities=["Hard work", "Deadline fulfillment", "Interest in new technologies"]
+        )
+
+```
+
+<h2>👨🏼‍💻 My job statistics: </h2>
+[![GitHub Stats](https://raw.githubusercontent.com/vvladislovv/StateUse/master/github_stats.svg)](https://github.com/vvladislovv/StateUse)
+
+ <h2>💭 Would you like to contact me here are my contacts: </h2>
 </h4>
+
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)-->
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 107 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   40 repos            ████████████░░░░░░░░░░░░░   46.51 % 
-Lua                      18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-```
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/evka_rek) 
+[![Vk Badge](https://img.shields.io/badge/-vvlad_islovv-dodgerblue?style=flat&logo=VK&logoColor=#4B0082)](https://vk.com/vvlad_islovv)
+[![YouTube Badge](https://img.shields.io/badge/-EvkaIT-red?style=flat&logo=YouTube&logoColor=#FF0000)](https://www.youtube.com/@EvkaIT)
 
 
+[//]: # ([![Discrod Badge]&#40;https://img.shields.io/badge/-vvlad_islovv-darkslateblue?style=flat&logo=Discord&logoColor=#4B0082&#41;]&#40;https://discordapp.com/users/1144549294813224960/&#41;)
 
-**Timeline**
+<h2>💡 What I always work with:
+<div>
+  <img src="./icons/cursor.svg" title="Cursor" alt="" width="40" height="40"/>&nbsp;
+  <img src="./icons/Docker.svg" title="Docker" alt="" width="40" height="40"/>
+  <img src="./icons/MongoDB.svg" title="MongoDB" alt="" width="40" height="40"/>
+  <img src="./icons/Insomnia.svg" title="Insomnia" alt="" width="40" height="40"/>
+  <img src="./icons/Figma.svg" title="Figma" alt="" width="40" height="40"/>
+</div>
 
-![Lines of Code chart](https://raw.githubusercontent.com/vvladislovv/vvladislovv/main/assets/bar_graph.png)
+<h2> 🛰️ A little bit about my work: </h2>
 
-
- Last Updated on 29/03/2025 14:38:52 UTC
+<!--START_SECTION:waka-->  
 <!--END_SECTION:waka-->
 
 
-[![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/evka_rek) 
-[![Discrod Badge](https://img.shields.io/badge/-vvlad_islovv-darkslateblue?style=flat&logo=Discord&logoColor=#4B0082)](https://discordapp.com/users/1144549294813224960/)
-[![Discrod Badge](https://img.shields.io/badge/-vvlad_islovv-dodgerblue?style=flat&logo=VK&logoColor=#4B0082)](https://vk.com/vvlad_islovv)
-  
-<h1>How I'd define myself...literally</h1>
 
-```C++
-#include <iostream>
-#include <string>
-#include <vector>
 
-class Vladislov : public Person {
-private:
-    std::string name;
-    std::vector<std::string> vacancy;
-    int age;
-    std::vector<std::string> workPrograms;
-    std::vector<std::string> languagesWork;
-    std::vector<std::string> hobbies;
-
-public:
-    Vladislov() {
-        name = "Vladislav";
-        age = 18;
-        vacancy.push_back("Backend Developer");
-        workPrograms = {"Roblox Studio", "Visual Studio Code", "Visual Studio"};
-        languagesWork = {"Luau", "Python", "C++"};
-        hobbies = {"Blogging", "Coding"};
-    }
-
-    std::string currentLocation() {
-        return "Moscow, Russia";
-    }
-
-    struct Currently {
-        std::vector<std::string> studying;
-        std::vector<std::string> myqualities;
-    };
-
-    Currently currently() {
-        return {
-            {"Python", "C++"},
-            {"Hard work", "Deadline fulfillment", "Interest in new technologies"}
-        };
-    }
-};
-
-int main() {
-    Vladislov vlad;
-    
-    std::cout << "Name: " << vlad.currentLocation() << std::endl;
-
-    Vladislov::Currently info = vlad.currently();
-    
-    std::cout << "Studying: ";
-    for (const auto& subject : info.studying) {
-        std::cout << subject << " ";
-    }
-    
-    std::cout << "\nQualities: ";
-    for (const auto& quality : info.myqualities) {
-        std::cout << quality << " ";
-    }
-
-    return 0;
-}
-
-```
-
-<h2>What I always play with
-<div>
-</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="Visual Studio" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/vvladislovv/vvladislovv/assets/133252067/78c5b7b3-58bd-4ed6-bd49-fe687c4b4da4" title="Roblox Studio" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg" title="Unity" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="" width="40" height="40"/>&nbsp;
-  <!--<img src="" title="YouTube" alt="" width="40" height="40"/>&nbsp; -->
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvladislovv&show_icons=true&theme=solarized-dark)
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvladislovv&hide_progress=truetheme=solarized-dar) 
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/vvladislovv/TWWRR)-->
 
 
 
