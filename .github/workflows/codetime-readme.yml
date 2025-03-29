@@ -1,25 +1,25 @@
-Имя: Codetime Stats
-на: # Секция с триггерами ОБЯЗАТЕЛЬНА!
-  расписание:
-    - крон: "0 21 * * *" # Запуск в 21:00 UTC (00:00 MSK)
-  workflow_dispatch: # Запуск вручную
+name: CodeTime Stats
+on:
+  schedule:
+    - cron: "0 21 * * *" # Запуск в 00:00 MSK (21:00 UTC)
+  workflow_dispatch: # Ручной запуск
 
-Вакансии:
-  Обновление-чтение:
-    забегает: Ubuntu-Latest
-    шаги:
-      - Использование: Действия/Оформление@v3
-        С:
-          глубинный: 0
-          токен: ${{ secrets.gh_token }}
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
 
-      - Имя: Получите статистику Codetime
-        Бегать: |
-          PIP установить запросы
-          Python Generate_codetime_stats.py
+      - name: Fetch CodeTime Data
+        run: |
+          pip install requests
+          python .github/scripts/codetime_stats.py
 
-      - Имя: Зафиксировать изменения
-        Использование: Stefanzweifel/Git-Auto-Commit-Action@V...4
-        С:
-          Commit_message: "Обновление статистики Codetime"
-          токен: ${{ secrets.gh_token }}
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "📊 Update CodeTime stats"
+          token: ${{ secrets.GH_TOKEN }}
