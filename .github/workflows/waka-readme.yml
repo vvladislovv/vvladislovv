@@ -27,3 +27,4 @@ jobs:
           SHOW_TIME: "False"
           SHOW_EDITORS: "False"
           HIDE_TIMELINE: "True"
+          DEBUG_LOGGING: "False"
