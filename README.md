@@ -47,7 +47,7 @@ class AboutMe:
 
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)-->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/evka_rek) 
+[![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/evkoch4kaa) 
 [![Vk Badge](https://img.shields.io/badge/-vvlad_islovv-dodgerblue?style=flat&logo=VK&logoColor=#4B0082)](https://vk.com/vvlad_islovv)
 [![YouTube Badge](https://img.shields.io/badge/-EvkaIT-red?style=flat&logo=YouTube&logoColor=#FF0000)](https://www.youtube.com/@EvkaIT)
 
@@ -101,12 +101,8 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
-
 ![Lines of Code chart](https://raw.githubusercontent.com/vvladislovv/vvladislovv/main/assets/bar_graph.png)
 
-
- Last Updated on 29/03/2025 16:10:49 UTC
 <!--END_SECTION:waka-->
 
 
