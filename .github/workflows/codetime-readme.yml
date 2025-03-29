@@ -1,19 +1,25 @@
 Имя: Codetime Stats
-на: # Секция с триггерами
+на:
   расписание:
-    - крон: "0 21 * * *" # Каждый день в полночь MSK (21:00 UTC)
-  workflow_dispatch: # Запуск вручную через GitHub Actions
+    - крон: "0 21 * * *" # Запуск в 21:00 UTC (00:00 MSK)
+  workflow_dispatch: # Запуск вручную
 
 Вакансии:
   Обновление-чтение:
     забегает: Ubuntu-Latest
     шаги:
       - Использование: Действия/Оформление@v3
+        С:
+          глубинный: 0 # Для корректного коммита
+          токен: ${{ secrets.gh_token }} # Доступ к репозиторию
+
       - Имя: Получите статистику Codetime
-        Бегать: |
+        БЕГАТЬ: |
           PIP установить запросы
           Python Generate_codetime_stats.py
+
       - Имя: Зафиксировать изменения
-        Использование: Stefanzweifel/Git-Auto-Commit-Action@V..4
+        Использование: Stefanzweifel/Git-Auto-Commit-Action@V.4
         С:
           Commit_message: "Обновление статистики Codetime"
+          токен: ${{ secrets.gh_token }}
