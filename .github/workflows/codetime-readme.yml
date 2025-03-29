@@ -16,7 +16,7 @@ jobs:
       - name: Fetch CodeTime Data
         run: |
           pip install requests
-          python codetime_stats.py
+          python generate_codetime_stats.py
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
