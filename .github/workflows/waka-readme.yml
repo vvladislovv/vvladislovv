@@ -7,17 +7,20 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Добавляем разрешение на запись
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}  # Используем встроенный токен
+          persist-credentials: true  # Сохраняем учетные данные
       - name: Update WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: vvladislovv # Ваш никнейм GitHub
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Используем тот же токен
+          USERNAME: vvladislovv
           SHOW_COMMIT: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
