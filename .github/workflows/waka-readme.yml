@@ -16,10 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_COMMIT: "false"
-          SHOW_TOTAL_CODE_TIME: "false"
           SHOW_PROFILE_VIEWS: "false"
-          SHOW_SHORT_INFO: "false"
           SHOW_OS: "false"
           SHOW_TIMEZONE: "false"
-          SHOW_EDITORS: "false"
           DEBUG_LOGGING: "false"
