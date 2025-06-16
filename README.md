@@ -68,11 +68,11 @@ class AboutMe:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 14 hrs 21 mins  █████████░░░░░░░░░░░░░░░░   35.88 %
-Vue.js                     7 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
-Python                     5 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-JSON                       4 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Bash                       3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+TypeScript                 16 hrs 54 mins  ██████████▒░░░░░░░░░░░░░░   41.99 %
+Vue.js                     7 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
+Python                     3 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+JSON                       3 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Bash                       3 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 ```
 
 <!--END_SECTION:waka-->
