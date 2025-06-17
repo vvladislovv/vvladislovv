@@ -3,6 +3,30 @@
 
 <img  style="margin-top: 10px" src="./wallpaper.gif" width="100%" height: auto>
 
+<img style="margin-top: 10px" src="./wallpaper.gif" width="100%" height: auto>
+
+<!-- Кнопки переключения с JS -->
+<div align="center">
+  <button onclick="showEnglish()" style="background: #0078D4; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; cursor: pointer;">ENGLISH</button>
+  <button onclick="showRussian()" style="background: #E4181C; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; cursor: pointer;">РУССКИЙ</button>
+</div>
+
+<script>
+function showEnglish() {
+  document.getElementById('english').style.display = 'block';
+  document.getElementById('russian').style.display = 'none';
+}
+function showRussian() {
+  document.getElementById('english').style.display = 'none';
+  document.getElementById('russian').style.display = 'block';
+}
+// По умолчанию показываем английскую версию
+window.onload = function() {
+  showEnglish();
+};
+</script>
+
+
 <h1> Hi, my name is Elcheninov Vladislav!✌️</h1>
 <h2>👀 A little bit about me:</h2>
 <h4>I study and live in Moscow. I came to the IT field because of my interest in studying computers, as well as my curiosity about how various information systems work. I play the guitar and I like to learn something new, as well as create something with my own hands. I've created games in the past, and now I'm diving into writing web applications and developing websites.</h4>
