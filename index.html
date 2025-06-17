@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vladislav's Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .language-switcher {
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 5px 10px;
+            cursor: pointer;
+            background: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <img style="margin-top: 10px; display: block;" src="./wallpaper.gif" width="100%">
+
+    <div class="language-switcher">
+        <button onclick="toggleLanguage()">Перевести на русский</button>
+    </div>
+
+    <!-- Остальной контент... -->
+    <!-- Вставьте весь предыдущий HTML-код, который я вам показал -->
+    <!-- Начиная с <h1 id="title"> и до конца -->
+
+    <script>
+        // JavaScript код из предыдущего примера
+        let isRussian = false;
+        
+        const translations = {
+            "title": ["Привет, меня зовут Ельченинов Владислав!✌️", "Hi, my name is Elcheninov Vladislav!✌️"],
+            "about-title": ["👀 Немного обо мне:", "👀 A little bit about me:"],
+            "about-text": [
+                "Я учусь и живу в Москве. Пришёл в IT-сферу из-за интереса к изучению компьютеров, а также из-за любопытства о том, как работают различные информационные системы. Играю на гитаре и люблю узнавать что-то новое, а также создавать что-то своими руками. Раньше создавал игры, а сейчас погружаюсь в написание веб-приложений и разработку сайтов.",
+                "I study and live in Moscow. I came to the IT field because of my interest in studying computers, as well as my curiosity about how various information systems work. I play the guitar and I like to learn something new, as well as create something with my own hands. I've created games in the past, and now I'm diving into writing web applications and developing websites."
+            ],
+            "python-title": ["🐍 если бы я описывал себя на Python:", "🐍 if me describe me in Python language:"],
+            "stats-title": ["👨🏼‍💻 Моя статистика работы:", "👨🏼‍💻 My job statistics:"],
+            "contacts-title": ["💭 Хотите связаться? Вот мои контакты:", "💭 Would you like to contact me here are my contacts:"],
+            "tools-title": ["💡 С чем я постоянно работаю:", "💡 What I always work with:"],
+            "work-title": ["🛰️ Немного о моей работе:", "🛰️ A little bit about my work:"]
+        };
+
+        function toggleLanguage() {
+            isRussian = !isRussian;
+            updateText();
+        }
+
+        function updateText() {
+            for (const [id, texts] of Object.entries(translations)) {
+                const element = document.getElementById(id);
+                if (element) {
+                    element.textContent = isRussian ? texts[0] : texts[1];
+                }
+            }
+            
+            const button = document.querySelector('button');
+            if (button) {
+                button.textContent = isRussian ? 'English version' : 'Перевести на русский';
+            }
+        }
+    </script>
+</body>
+</html>
