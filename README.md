@@ -1,11 +1,10 @@
 <img style="margin-top: 10px" src="./wallpaper.gif" width="100%" height="auto">
 
-# Hi, my name is Elcheninov Vladislav!✌️
+# Привет, меня зовут Владислав Ельченинов! ✌️
 
-## 👀 A little bit about me:
-#### I study and live in Moscow. I came to the IT field because of my interest in studying computers, as well as my curiosity about how various information systems work. I play the guitar and I like to learn something new, as well as create something with my own hands. I've created games in the past, and now I'm diving into writing web applications and developing websites.
-
-# 🐍 If I describe myself in Python language:
+## 👀 Немного обо мне:
+#### Я живу и учусь в Москве. Пришел в IT из-за интереса к компьютерам и желания разобраться, как работают информационные системы. Играю на гитаре, люблю изучать новое и создавать что-то своими руками. Раньше делал игры, а сейчас углубляюсь в веб-разработку и создание сайтов.
+# 🐍 Если описать меня на Python:
 
 ```Python
 from dataclasses import dataclass, field
@@ -35,16 +34,16 @@ class AboutMe:
         )
 ```
 
-## 👨🏼‍💻 My job statistics:
+## 👨🏼‍💻 Моя статистика работы
 [![GitHub Stats](https://raw.githubusercontent.com/vvladislovv/StateUse/master/github_stats.svg)](https://github.com/vvladislovv/StateUse)
 
-## 💭 Would you like to contact me? Here are my contacts:
+## 💭 Хотите связаться со мной? Вот мои контакты:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/evkoch4kaa) 
 [![Vk Badge](https://img.shields.io/badge/-vvlad_islovv-dodgerblue?style=flat&logo=VK&logoColor=#4B0082)](https://vk.com/vvlad_islovv)
 [![YouTube Badge](https://img.shields.io/badge/-EvkaIT-red?style=flat&logo=YouTube&logoColor=#FF0000)](https://www.youtube.com/@EvkaIT)
 
-## 💡 What I always work with:
+## 💡 С чем я постоянно работаю:
 <div>
   <img src="./icons/cursor.svg" title="Cursor" alt="" width="40" height="40"/>&nbsp;
   <img src="./icons/Docker.svg" title="Docker" alt="" width="40" height="40"/>
@@ -53,7 +52,7 @@ class AboutMe:
   <img src="./icons/Figma.svg" title="Figma" alt="" width="40" height="40"/>
 </div>
 
-## 🛰️ A little bit about my work:
+## 🛰️ Немного о моей работе:
 ```txt
 TypeScript                 19 hrs 34 mins  ███████████░░░░░░░░░░░░░░   43.40 %
 Vue.js                     7 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
