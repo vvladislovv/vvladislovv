@@ -38,10 +38,10 @@ class AboutMe:
 [![GitHub Stats](https://raw.githubusercontent.com/vvladislovv/StateUse/master/github_stats.svg)](https://github.com/vvladislovv/StateUse)
 
 ## 💭 Хотите связаться со мной? Вот мои контакты:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.yelcheninov@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/evkoch4kaa) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dislovreklama@mail.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Vladislov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dislov_freelance) 
 [![Vk Badge](https://img.shields.io/badge/-vvlad_islovv-dodgerblue?style=flat&logo=VK&logoColor=#4B0082)](https://vk.com/vvlad_islovv)
-[![YouTube Badge](https://img.shields.io/badge/-EvkaIT-red?style=flat&logo=YouTube&logoColor=#FF0000)](https://www.youtube.com/@EvkaIT)
+[![YouTube Badge](https://img.shields.io/badge/-EvkaIT-red?style=flat&logo=YouTube&logoColor=#FF0000)](https://www.youtube.com/@DDISLOVV)
 
 ## 💡 С чем я постоянно работаю:
 <div>
